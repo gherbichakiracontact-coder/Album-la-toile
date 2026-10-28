@@ -1,12 +1,23 @@
 body {
   margin: 100px;
-  background-color: rgb(17, 129, 4);
-  color: rgb(18, 22, 22);
+  background-color: rgba(27, 52, 25, 0.162);
+  color: rgb(0, 0, 0);
 }
 h1 {
   text-align: center;
- 
 }
+h2 { 
+  text-align: center;
+}
+
 p {
-    text-align: center;
+    text-align: left;
+}
+
+  header {
+    background-color: rgb(25, 72, 16);
+  }
+
+article {
+  background-color: black;
 }

@@ -1,0 +1,32 @@
+body {
+  margin: 100px;
+  background-color: rgba(12, 138, 3, 0.918);
+  color: rgb(244, 238, 238);
+}
+h1 {
+  text-align: center;
+}
+h2 { 
+  text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+  header {
+    background-color: rgb(25, 72, 16);
+  }
+
+nav ul {
+        display: flex;
+        justify-content: space-around;
+        text-decoration-line: none;
+    a  {
+        text-decoration-line: none
+    }
+}
+
+footer {
+   background-color: brown;
+}
